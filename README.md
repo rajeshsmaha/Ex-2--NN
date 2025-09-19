@@ -1,5 +1,5 @@
-<H3>Name : HARSHITHA V </H3>
-<H3>Register no : 212223230074<H3>
+<H3>Name : Rajeshwaran D </H3>
+<H3>Register no : 212223040165<H3>
 
 <H3>Experiment No. 2 </H3>
 
